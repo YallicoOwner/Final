@@ -1,4 +1,4 @@
-..const handler = async (m, {conn}) => {
+const handler = async (m, {conn}) => {
   m.reply(global.Interna4Sur);
 };
 handler.command = /^(Interna4Sur|Interna4Sur)$/i;
