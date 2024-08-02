@@ -75,9 +75,9 @@ let emoji = Array.from(lvl.toString()).map((digit) => numberToEmoji[digit] || "�
 
 let menu = `
 ╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
-║       ◉— *ZakaeBot* —◉
+║       ◉— *YallicoBot* —◉
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
-║➤ *Owner:* Zakae Bot
+║➤ *Owner:* Yallico Bot
 ║➤ *Creador:* wa.me/51926933818
 ║➤ *Instagram:* ${ig}
 ║➤ *Bot Activo:* ${uptime}
@@ -90,7 +90,7 @@ let menu = `
 ┣ *🧰 Experiencia:* ${exp}
 ┣ *⚓ Rango:* ${role}
 ┣ *💎 Diamantes:* ${limit}
-┣ *👾 ZakaeCoins:* ${money}
+┣ *👾 YallicoCoins:* ${money}
 ┣ *🪙 Tokens:* ${joincount}
 ┗━━━━━━━━━━━━━━━━┛
 
